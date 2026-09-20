@@ -1,6 +1,6 @@
 # Neon Kart Rush
 
-An original, lightweight Android arcade kart racer with a neon/cyber visual style. The road, scenery, rivals, pickups, particles, HUD, and kart graphics are all drawn procedurally at runtime — there are no copyrighted characters or third-party art assets bundled in the project.
+A lightweight Android arcade kart racer with a neon/cyber visual style. The road, scenery, rivals, pickups, particles, HUD, and kart graphics are all drawn procedurally at runtime — there are no copyrighted characters or third-party art assets bundled in the project.
 
 ## Highlights
 
